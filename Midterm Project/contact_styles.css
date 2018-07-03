@@ -1,0 +1,88 @@
+		html { 
+  		background: url(images/background.png) no-repeat center center fixed; 
+ 		background-size: cover;
+  		background-repeat: no-repeat;
+		}
+		
+		hr {
+		width: 100%; 
+		margin-left: auto; 
+		margin-right: auto; 
+		height: 30px;
+		background-color:#c8a1b1;
+		color:#c8a1b1;
+		border: 0 none;
+		}
+	
+		hr.thin {
+		width: 50%; 
+		margin-left: auto; 
+		margin-right: auto; 
+		height: 10px;
+		background-color:#c8a1b1;
+		color:#c8a1b1;
+		border: 0 none;
+		}
+	
+		h1 {
+		color: #89d0ff;
+		font-family: Verdana, Geneva, sans-serif;	
+		font-style: italic; 
+		font-size: 80px;
+		text-align: center;
+
+		}
+
+		h2 {
+		color:  #89d0ff;
+		font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+		font-size: 30px;
+		text-align: center;
+		}
+
+		h2.season {
+		color:  Grey;
+		font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+		font-size: 18px;
+		text-align: center;
+		}
+		
+		
+		p.title {
+		color:  #c8a1b1;
+		font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+		font-size: 23px;
+		text-align: center;
+		}
+		
+		p.grey {
+		color:  Grey;
+		font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+		font-size: 18px;
+		text-align: center;
+
+		a {
+  		outline: none;
+ 		text-decoration: none;
+		}
+
+		a:link {
+		color: Grey;
+		text-decoration: none; 
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 20px 
+		}
+		
+		a:visited {
+		color: Grey;
+		text-decoration:none; 
+		}
+		
+		a:hover {
+		text-decoration: underline;
+		}
+
+
+		
+
+
